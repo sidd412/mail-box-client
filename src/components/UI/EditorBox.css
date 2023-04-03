@@ -1,0 +1,17 @@
+.editor {
+  background-color: #eaeaea;
+  margin-bottom: 1.5rem;
+  min-height: 61vh;
+}
+.toolbar {
+  background-color: lightcyan;
+  width: 100%;
+  position: absolute;
+  bottom: -3rem;
+  padding-block: 0.5rem;
+  border: none;
+  border-top: 1px solid rgb(161, 161, 161);
+}
+.toolbar-hidden {
+  display: none;
+}
